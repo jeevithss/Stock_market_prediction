@@ -1,2 +1,2 @@
 # Stock_market_prediction
-A RNN modle to predict the futurerstck market using the trained data
+Built and trained an LSTM model using TensorFlow and Keras to forecast stock prices from historical market data.Designed a Tkinter-based GUI for stock comparison, prediction visualization, and investment insight generation.
